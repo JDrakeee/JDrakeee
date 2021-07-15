@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JDrakeee
-- 👀 I’m interested in java and linux
+- 👀 I’m interested in aws,front-end, java and linux
 - 🌱 I’m currently learning aws and microsoft cloud
 - 💞️ I’m looking to collaborate on projects that would allow me to use my aws practitioner skills 
 - 📫 How to reach me twitter @dtrper 
